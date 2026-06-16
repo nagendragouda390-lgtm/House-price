@@ -26,6 +26,11 @@
   <img src="co-relation between feature and target.png" width="800">
 </p>
 
+# Model Performance 
+- MEA :  9136.44(price in range(100000-1000000))
+- MSE :  123912358.01
+- R²  :  0.998
+
 # Model prediction analysis
 <p align="center">
   <img src="model_analysis.png" width="600">
