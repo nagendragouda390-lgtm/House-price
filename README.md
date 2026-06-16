@@ -15,3 +15,6 @@
 
 
 # Model prediction analysis
+<p align="center">
+  <img src="model_analysis.png" width="600">
+</p>
