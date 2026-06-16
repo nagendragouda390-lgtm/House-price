@@ -14,9 +14,10 @@
 
 # Data
 ## feature 
-- Size
+- house_Size
 - No of Bedrooms
 - No of Bathrooms
+- year_built
 - Garage size
 - Loot_Area
 - Neighbour_Quality
