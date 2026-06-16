@@ -25,7 +25,7 @@
 - House_Price
 # Notebook
 [Notebook link](https://www.kaggle.com/code/nagendragouda125/house-price-prediction/edit)
-# correlation between features and target
+# Feature VS Target
 <p align="center">
   <img src="co-relation between feature and target.png" width="800">
 </p>
