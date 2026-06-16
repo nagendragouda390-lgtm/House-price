@@ -39,3 +39,13 @@
 <p align="center">
   <img src="model_analysis.png" width="600">
 </p>
+
+# Challenges 
+- deployment
+- subplots
+# skills improved
+- pandas
+- matplotlib
+- Seaborn
+- scikit-learn
+- deployment in streamlit 
