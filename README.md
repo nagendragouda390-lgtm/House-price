@@ -20,7 +20,9 @@
 - Loot_Area
 - Neighbour_Quality
 ## Target
-### House_Price
+- House_Price
+# Notebook
+[Notebook link]('https://www.kaggle.com/code/nagendragouda125/house-price-prediction/edit')
 # correlation between features and target
 <p align="center">
   <img src="co-relation between feature and target.png" width="800">
