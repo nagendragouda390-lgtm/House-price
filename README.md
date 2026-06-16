@@ -12,7 +12,9 @@
 - streamlit
 
 # correlation between features and target
-
+<p align="center">
+  <img src="co-relation between feature and target.png" width="800">
+</p>
 
 # Model prediction analysis
 <p align="center">
